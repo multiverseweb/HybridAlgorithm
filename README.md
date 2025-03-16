@@ -1,4 +1,4 @@
-# New Algorithm Development
+# Novice Algorithm Development
 
 Welcome! This repository is for developing a new algorithm. 
 
